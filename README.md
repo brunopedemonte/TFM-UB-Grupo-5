@@ -5,5 +5,5 @@ Esta carpeta contiene los notebooks trabajados por el equipo 5 en su Trabajo Fin
 
 La carpeta se compone por 2 subcarpetas:
 
-Experimentos: en donde se visualiza el analisis exploratorio que ralizaron los integrantes del equipo 
-Entregables: notebooks que ha recogido los elementos mas importantes de cada etapa para su presentacion frente a nuestro cliente
+* Experimentos: en donde se visualiza el analisis exploratorio que ralizaron los integrantes del equipo 
+* Entregables: notebooks que ha recogido los elementos mas importantes de cada etapa para su presentacion frente a nuestro cliente
